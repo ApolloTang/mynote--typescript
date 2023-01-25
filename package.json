@@ -17,6 +17,7 @@
     "@types/node": "^18.0.0"
   },
   "dependencies": {
+    "tslab": "^1.0.15",
     "type-fest": "^3.5.3"
   }
 }
