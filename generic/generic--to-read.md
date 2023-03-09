@@ -1,0 +1,2 @@
+- [generic old doc](https://www.typescriptlang.org/docs/handbook/generics.html)
+- [generic new doc](https://www.typescriptlang.org/docs/handbook/2/generics.html)
