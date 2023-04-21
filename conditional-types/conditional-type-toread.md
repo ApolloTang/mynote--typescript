@@ -10,3 +10,5 @@ https://blog.logrocket.com/guide-conditional-types-typescript/
 
 
 
+2023.04.19 [Conditional Types in TypeScript: A Comprehensive Guide | Bits and Pieces](https://blog.bitsrc.io/working-with-conditional-types-in-typescript-a-comprehensive-guide-fd8ed0554f46)
+
