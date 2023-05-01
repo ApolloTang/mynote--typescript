@@ -5,4 +5,5 @@ Note:
 
 - pnpm does not work, use yarn or npm instead. 
 
-- typescript seem to run in script mode which force me to wrap all javascript and typescript in an **IIFE** (Immediately Invoked Function Expression)
+- typescript seem to run in [script mode](https://stackoverflow.com/questions/55488642/what-is-the-difference-between-a-module-and-a-script) which force me to wrap all javascript and typescript in an **IIFE** (Immediately Invoked Function Expression)
+
