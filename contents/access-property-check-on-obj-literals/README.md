@@ -6,7 +6,9 @@
 
  [Typescript: structural typing check has inconsistence behaviour - Stack Overflow](https://stackoverflow.com/questions/68523644/typescript-structural-typing-check-has-inconsistence-behaviour) 
 
- [TypeScript: Handbook - Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html#excess-property-checks) 
+ [TypeScript: Handbook - Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html#excess-property-checks)
+
+ [TypeScript: Handbook - object types](https://www.typescriptlang.org/docs/handbook/2/objects.html#excess-property-checks)
 
  [Strict object literal assignment checking by ahejlsberg · Pull Request #3823 · microsoft/TypeScript](https://github.com/Microsoft/TypeScript/pull/3823) 
 
