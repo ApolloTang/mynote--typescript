@@ -24,3 +24,17 @@ https://www.typescriptlang.org/docs/handbook/2/types-from-types.html#handbook-co
 
 [Code Oz: How I improve my skills in Typescript #2 : Mapped Type](https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-2-mapped-type-dag)
 
+
+
+ [What does the `in` keyword do in typescript? - Stack Overflow](https://stackoverflow.com/a/74036882/3136861) 
+
+
+
+ [Mapped Types in TypeScript — Marius Schulz](https://mariusschulz.com/blog/mapped-types-in-typescript#modeling-object-freeze-with-mapped-types) 
+
+ [In TypeScript, what do "extends keyof" and "in keyof" mean? - Stack Overflow](https://stackoverflow.com/questions/57337598/in-typescript-what-do-extends-keyof-and-in-keyof-mean) 
+
+
+
+
+
